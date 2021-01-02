@@ -72,7 +72,7 @@
 
 ##### 2、运行环境
 
-**C++部分：
+**C++部分：**
 
 #include <iostream> //输入输出流
 
@@ -94,7 +94,7 @@
 
 #include <random> //用于生成随机类中心
   
-**python部分：
+**python部分：**
 
 import matplotlib.pyplot as plt //可视化模块
 
