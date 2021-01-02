@@ -1,8 +1,5 @@
 # machine-learning
 实验一、二、三
-# Markdown
-## Markdown
-### Markdown
-#### Markdown
-##### Markdown
-###### Markdown
+### 本学期机器学习实验我完成了前三个，包括“多源数据集成、清洗和统计”、“数据统计和可视化”、“K-Means聚类算法”，均为独立完成。
+
+
