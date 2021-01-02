@@ -73,41 +73,39 @@
 
 ##### 2、运行环境
 
-C++部分：
+##### C++部分：
 
-#include <iostream>
+#include <iostream> //输入输出流
 
-#include <fstream>
+#include <fstream> //文件输入输出流
   
-#include <string>
+#include <string> //处理字符串
   
-#include <sstream>
+#include <sstream> //字符串流，用于格式转换
   
 #include <stdio.h>
 
-#include <math.h>
+#include <math.h> //用于数学运算
 
-#include "Eigen/Dense"
+#include "Eigen/Dense" //矩阵库，用于处理矩阵运算
 
-#include <vector>
+#include <vector> //容器，用于存放临时数据
   
 #include <stdlib.h>
 
-#include <random>
+#include <random> //用于生成随机类中心
   
-python部分：
+##### python部分：
 
-import matplotlib.pyplot as plt
+import matplotlib.pyplot as plt //可视化模块
 
-import pandas as pd
+import pandas as pd //用于读取csv数据
 
-import csv
+import numpy as np //用于矩阵运算
 
-import numpy as np
+import random //用于随机生成类中心
 
-import random
-
-import copy
+import copy //用于更新类中心时存储旧类中心
 
 ##### 3、函数说明
 
