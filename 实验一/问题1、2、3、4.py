@@ -1,13 +1,8 @@
 import pandas as pd
-import numpy as np
 import random
 import glob
 import csv
 import xlrd
-import math
-import matplotlib.pyplot as plt
-import re
-import seaborn
 plt.rcParams['font.sans-serif']=['SimHei']
 plt.rcParams['axes.unicode_minus']=False
 np.set_printoptions(threshold=np.inf)
