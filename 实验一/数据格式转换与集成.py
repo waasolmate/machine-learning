@@ -1,13 +1,8 @@
 import pandas as pd
-import numpy as np
 import random
 import glob
 import csv
 import xlrd
-import math
-import matplotlib.pyplot as plt
-import re
-import seaborn
 
 ##数据格式转换
 def Return():
